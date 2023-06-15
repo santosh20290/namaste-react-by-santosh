@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react-by-santosh",
+  "version": "1.0.0",
+  "description": "This is react application by santosh thakur",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santosh20290/namaste-react-by-santosh.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Santosh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santosh20290/namaste-react-by-santosh/issues"
+  },
+  "homepage": "https://github.com/santosh20290/namaste-react-by-santosh#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
